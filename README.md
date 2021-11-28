@@ -2,15 +2,15 @@
 ## Overview of the analysis:
  We analyze weekly fares for three types of ride-sharing data: rural, suburban, and urban by using Python, Panda ,matplotlib skills to prepare a report with a data frame and line-chart. It helps stakeholder having better overview of those differences and coming out a plan to improve business mode at PyBer. 
  
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-![Summary_DataFrame]()
+## Results: 
+![Summary_DataFrame](https://github.com/WeiTing83/PyBer_Analysis./blob/main/Resources/Summary_DataFrame.png)
 
   * At Urban, there are more population and higher market demand so it is more competitive.
   * At Rural, total rides is one and half times larger than total drivers. There isn’t every ride has a customer.
   >
-![PyBr_summary]()
+![PyBr_summary](https://github.com/WeiTing83/PyBer_Analysis./blob/main/Resources/PyBr_summary.png)
 
-  * At 2/24, there are higher fares at Rural and Suburban. It probably has some reasons cause customers need to take a ride. We should collect more data to further analyze it.
+  * At 2/24, there are higher fares at rural and suburban. It probably has some reasons cause customers need to take a ride. We should collect more data to further analyze it.
 >
 ## Summary: 
 
